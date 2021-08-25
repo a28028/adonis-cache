@@ -1,14 +1,14 @@
 /*
- * @kaperskyguru/adonis-cache
+ * @a28028/adonis-cache
  *
- * (c) Solomon Eseme <kaperskyguru@gmail.com>
+ * (c) Solomon Eseme <a28028@gmail.com>
  *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
  */
 
 import Env from '@ioc:Adonis/Core/Env'
-import { CacheConfig } from '@ioc:Kaperskyguru/Adonis-Cache'
+import { CacheConfig } from '@ioc:a28028/Adonis-Cache'
 
 const cacheConfig: CacheConfig = {
 	driver: Env.get('CACHE_DRIVER') as string,

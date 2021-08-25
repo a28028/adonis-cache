@@ -1,13 +1,13 @@
 /*
- * @Kaperskyguru/adonis-cache
+ * @a28028/adonis-cache
  *
- * (c) Solomon Eseme <kaperskyguru@gmail.com>
+ * (c) Solomon Eseme <a28028@gmail.com>
  *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
  */
 
-declare module '@ioc:Kaperskyguru/Adonis-Cache' {
+declare module '@ioc:a28028/Adonis-Cache' {
 	/**
 	 * Shape of adonis-cache config.
 	 */
